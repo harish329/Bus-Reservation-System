@@ -1,7 +1,7 @@
 # Bus Reservation System
 
 PROJECT CREATED BY : 
-Hareeswar R M
+Hareeswar P M
 6235 - AVS College of Technology
 
 LOGIN DETAILS:
